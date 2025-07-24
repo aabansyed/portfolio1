@@ -58004,7 +58004,7 @@ const Xn = {
   , Ib = "/assets/college-3765f49f.png"
   , zX = "/assets/touhid-675491e6.jpg"
   , VX = "/assets/sharik-255bad63.jpg"
-  , WX = "/assets/aafan-cf147589.jpg"
+  , WX = "/assets/aafan-cf147589.jpeg"
   , jX = "/assets/easybank-8051afd3.png"
   , XX = "/assets/as.png"
   , JX = "/assets/bmw.png"
@@ -58107,32 +58107,32 @@ const Xn = {
   ]
 }]
   , ZX = [{
-    testimonial: "Highly skilled web developer who delivered a stunning and flawless website. Highly recommend!",
-    name: "Aafan Sayyed ",
-    designation: "Associate Consultant ",
-    company: "BNP Paribas",
+    testimonial: "Seeing him working so passionately in such a fast paced environment, was great Your work is really inspiring Aaban Keep it up! Highly Recommend",
+    name: "Hassan Naeem ",
+    designation: "Center Academic Head",
+    company: "Aptech",
     image: WX
 }, {
     testimonial: "I've never met a web developer who truly cares about their clients' success like Aaban does.",
-    name: "Touhid Sayed",
-    designation: "Software Associate",
-    company: "Capgemini",
+    name: "Areeb Iftikhar",
+    designation: "Best Buy Autos",
+    company: "Jamica",
     image: zX
 }, {
     testimonial: "Exceeded expectations with their technical proficiency and design sensibilities. A top-notch web developer.",
-    name: "Sharique Khan",
-    designation: "Software Test Engineer",
-    company: "Kotak Life",
+    name: "Sufyaan",
+    designation: "Python Developer Faculty",
+    company: "Aptech",
     image: VX
 }]
-  , qX = [{
+  ,  qX = [{
     name: "Maru Dry Fruit",
  description: "An engaging and responsive website developed for Maru Dry Fruit, showcasing premium dry fruit products with a user-friendly design, optimized layout, and smooth UI/UX flow.",
     tags: [{
         name: "javscript",
         color: "blue-text-gradient"
     }, {
-        name: "SASS",
+        name: "CSS",
         color: "green-text-gradient"
     }, {
         name: "ResponsiveDesign",
@@ -58144,28 +58144,28 @@ const Xn = {
     name: "Wake Oye",
   description: "Wake Oye is a proudly Pakistani tea and coffee brand known for its rich flavors and premium blends. This website features a sleek, modern interface with dynamic animations to reflect the brand’s youthful energy. Designed to elevate user experience, the site showcases Wake Oye’s commitment to quality and innovation in every sip.",
     tags: [{
-        name: "next.js",
+        name: "script.js",
         color: "blue-text-gradient"
     }, {
-        name: "framermotion",
+        name: "Friendly Design",
         color: "green-text-gradient"
     }, {
-        name: "tailwindcss",
+        name: "CSS",
         color: "pink-text-gradient"
     }],
     image: XX,
-    source_code_link: "https://github.com/aabansyed/Wakeoye"
+source_code_link: "https://github.com/aabansyed/Wakeoye"
 }, {
-    name: "Bmw Project",
+    name: "BMW Project",
 description: "The BMW Project is a sleek and interactive front-end concept built to reflect the luxury, performance, and innovation that define the BMW brand. Designed with high-end visuals and fluid user interactions, this project demonstrates how technology and design can merge to create an immersive automotive experience. It highlights BMW’s core values of precision engineering and futuristic vision.",
     tags: [{
-        name: "android",
+        name: "Responsive Design",
         color: "blue-text-gradient"
     }, {
-        name: "java",
+        name: "CSS",
         color: "green-text-gradient"
     }, {
-        name: "androidstudio",
+        name: "JavaScript",
         color: "pink-text-gradient"
     }],
     image: JX,
